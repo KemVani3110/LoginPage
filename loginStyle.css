@@ -1,0 +1,81 @@
+.khung{
+    display: flex;
+    background-color: rgba(156,163,175,.25);
+    width: 1000px;
+    height: 550px;
+    justify-content: center;
+  
+}
+.khung2
+{
+    background-color:rgba(156,163,175,.25);
+    width: 450px;
+    height: 510px;
+    
+    
+}
+.all{
+    display: flex;
+    justify-content: center;
+    /* background-image: url('https://divineshop.vn/image/catalog/Anh/14.03.2022/Image%202022-07-03-1656817479-97266.png?hash=1656817567');
+    background-size: cover; */
+}
+.te{
+     padding: 5px 20px; 
+    display: flex;
+    color: #FFFFFF;
+}
+.fe{
+     padding: 1px 20px; 
+    color: #374151;  
+    font-size: medium;
+    flex-wrap: wrap;
+   
+}
+
+input:focus{
+    background-color: gray;
+    outline: 3px solid lightblue;
+}
+
+.google{
+    width: 50px;
+    height: 50px;
+}
+
+.face{
+    
+    width: 35px;
+    height: 35px;
+}
+
+.ir
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but
+{
+   float: right;
+}
+.bit{
+    width: 394.3px;
+    height: 40px;
+    display: flex;
+    margin: 0 auto;
+    background-color: #2579f2;
+    box-sizing: border-box;
+}
+
+.nhap input{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
