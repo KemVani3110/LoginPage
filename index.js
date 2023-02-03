@@ -3,7 +3,7 @@ let so
 
 do
 {
-    so = prompt("Nhap vao so bi an");
+    so = prompt("Nhập vào số bí ẩn");
     if(so == randomNumber)
         {
             alert('Bạn đã đoán đúng');
